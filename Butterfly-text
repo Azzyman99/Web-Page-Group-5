@@ -1,87 +1,135 @@
-The Monarch Butterfly: Lifecycle and Migration <!--- header --->
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href = "css/style.css">
+    
+     </head>
 
-Stages of Metamorphisis <!--- header --->
+   <body>
+        <header> 
+        <h1>The Monarch Butterfly: Lifecycle and Migration </h1>
 
-https://journeynorth.org/sites/default/files/2018-06/1526346579.full_.jpg <!---add alt monarch egg--->
-Egg <!--- header --->
+<h2>Stages of Metamorphisis </h2> <!--- header --->
+
+<img src="https://www.saveourmonarchs.org/uploads/1/3/2/3/13239148/published/caterpillar.jpg?1496705494">  <!---add alt monarch egg--->
+<h3> Egg</h3> <!--- header --->
+<ol><!--- below are bullet points --->
+<li> Female butterflies lay eggs</li>
+<li>Many eggs are laid at one time</li>
+<li>Butterfly eggs are very small in size</li>
+</ol>
+
+<img src="http://www.monarchs-and-milkweed.com/Monarch-Larvae-two.jpg" title="alt monarch caterpillar">  <!-- add alt monarch caterpillar --->
+<h4>Caterpillar </h4> <!--- header --->
 <!--- below are bullet points --->
-Female butterflies lay eggs
-Many eggs are laid at one time
-Butterfly eggs are very small in size
+<ol> 
+<li>Also known as larvae</li>
+<li>Caterpillars eat a lot to store up food for later on</li>
+<li>Caterpillars shed their skin 4-5 times</li>
+<li>Caterpillars start at the size of a pinhead and grow up to 2 inches long</li> 
+</ol>
 
-http://www.monarchs-and-milkweed.com/Monarch-Larvae-two.jpg <!-- add alt monarch caterpillar --->
-Caterpillar <!--- header --->
+<img src="https://bugguide.net/images/raw/IRO/ZIR/IROZIROZKRFZ0RDZ0RULRZWLLZTLER1L7ZDLHZ6LXROZ3LWLHZELIRTZSRUL3L6L0Z1LSZLHERQHKZVL.jpg" title="alt monarch pupa"> <!--- add alt moarch pupa --->
+<h5>Pupa </h5><!---header--->
 <!--- below are bullet points --->
-Also known as larvae
-Caterpillars eat a lot to store up food for later on
-Caterpillars shed their skin 4-5 times
-Caterpillars start at the size of a pinhead and grow up to 2 inches long
+<ol>
+<li>Also known as a chrysalis</li>
+<li>Pupa are suspended in a shaded area</li>
+<li>In this stage, the larvae grow wings, legs, and eyes to transform into butterfly</li>
+</ol>
 
-https://bugguide.net/images/raw/IRO/ZIR/IROZIROZKRFZ0RDZ0RULRZWLLZTLER1L7ZDLHZ6LXROZ3LWLHZELIRTZSRUL3L6L0Z1LSZLHERQHKZVL.jpg <!--- add alt moarch pupa --->
-Pupa <!---header--->
+<img src="https://nypost.com/wp-content/uploads/sites/2/2020/12/monarch-butterfly.jpg?quality=90&strip=all&w=744" title="alt monarch butterfly"> <!-- add alt monarch butterfly--->
+<h6>Butterfly</h6><!---header --->
 <!--- below are bullet points --->
-Also known as a chrysalis
-Pupa are suspended in a shaded area
-In this stage, the larvae grow wings, legs, and eyes to transform into butterfly
+<ol>
+<li>Butterflies can fly but they can not grow anymore</li>
+<li>Adult butterflies eat nectar for energy</li>
+<li>Butterflies purpose is to mate and lay eggs</li>
 
- https://nypost.com/wp-content/uploads/sites/2/2020/12/monarch-butterfly.jpg?quality=90&strip=all&w=744 <!-- add alt monarch butterfly--->
-Butterfly<!---header --->
+<h7>Four Generations in One Year</h7> <!---header--->
+
+
+<div>
+<h8>First Generation</h8><!---header --->
+<p>March-April</p><!--- header --->
 <!--- below are bullet points --->
-Butterflies can fly but they can not grow anymore
-Adult butterflies eat nectar for energy
-Butterflies purpose is to mate and lay eggs
+<ol>
+<li>Baby caterpillars ( aka larva) hatch  from eggs</li>
+<li>After about four days baby caterpillars fully emerge from their eggs</li>
+<li> Caterpillars spend all of their time eating milkweed</li>
+<li>Caterpillars are fully grown after about two weeks</li>
+<li>Caterpillars find a sheltered area to form a chrysalis</li>
+<li>After 10 days the caterpillars emerge, reborn as butterflies</li>
+<li>Butterflies fly away to eat nectar from flowers</li>
+<li>Butterflies find mate and lay eggs</li>
+<li>Butterflies die after 4-6 weeks</li>
+</ol>
+</div>
 
-Four Generations in One Year <!---header--->
 
-First Generation<!---header --->
-March-April<!--- header --->
+
+<div>
+<h9>Second Generation</h9><!--- header --->
+<p>May-June</p><!--- header --->
 <!--- below are bullet points --->
-Baby caterpillars ( aka larva) hatch  from eggs
-After about four days baby caterpillars fully emerge from their eggs
-Caterpillars spend all of their time eating milkweed
-Caterpillars are fully grown after about two weeks
-Caterpillars find a sheltered area to form a chrysalis
- After 10 days the caterpillars emerge, reborn as butterflies
-Butterflies fly away to eat nectar from flowers
-Butterflies find mate and lay eggs
-Butterflies die after 4-6 weeks
+<ol>
+<li>Baby caterpillars hatch from eggs</li>
+<li>Caterpillars eat lots of milkweed</li>
+<li>Caterpillars form chrysalis</li>
+<li>Caterpillars transform into butterflies and fly away</li>
+<li>Butterflies mate and lay eggs, dying after 2-6 weeks</li>
+</ol>
 
-
-Second Generation<!--- header --->
-May-June<!--- header --->
+<h10>Third Generation</h10><!--- header --->
+<p>July-August</p><!--- header --->
 <!--- below are bullet points --->
-Baby caterpillars hatch from eggs
-Caterpillars eat lots of milkweed
-Caterpillars form chrysalis
-Caterpillars transform into butterflies and fly away
-Butterflies mate and lay eggs, dying after 2-6 weeks
+<ol>
+<li>Same process as second generation</li>
+</ol>
+</div>
 
-Third Generation<!--- header --->
-July-August<!--- header --->
+
+
+<div>
+<h11>Fourth Generation</h11><!--- header --->
+<p>September-October</p><!--- header --->
 <!--- below are bullet points --->
-Same process as second generation
- 
-Fourth Generation<!--- header --->
-September-October<!--- header --->
-<!--- below are bullet points --->
-Baby caterpillars hatch from eggs
-Caterpillars eat lots of milkweed
-Caterpillars form chrysalis
-Caterpillars transform into butterflies and fly away
-Butterflies migrate to Mexico or California
-Butterflies go into hibernation
-Hibernating Monarch Butterflies emerge from hibernation
- Butterflies mate
-Butterflies fly North-East to lay eggs on Milkweed plants, dying after 6-8 months of life
+<ol>
+<li>Baby caterpillars hatch from eggs</li>
+<li>Caterpillars eat lots of milkweed</li>
+<li>Caterpillars form chrysalis</li>
+<li>Caterpillars transform into butterflies and fly away</li>
+<li>Butterflies migrate to Mexico or California</li>
+<li>Butterflies go into hibernation</li>
+<li>Hibernating Monarch Butterflies emerge from hibernation</li>
+<li>Butterflies mate</li>
+<li>Butterflies fly North-East to lay eggs on Milkweed plants, dying after 6-8 months of life</li> 
+</ol>
+</div>
 
-Save the Monarchs! <!--- header --->
-https://twitter.com/DipikaKadaba/status/1383086276971167744 <!--- embed this tweet, dm me if you need help with this>
 
-Learn more <!--- header --->
+
+<div>
+<h12>Save the Monarchs!</h12><!--- header --->
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One of the most heartbreaking wildlife data visualizations I’ve ever made - this video shows the catastrophic decline of western monarch butterflies since 1997.<a href="https://t.co/72B9WpjRsJ">pic.twitter.com/72B9WpjRsJ</a></p>&mdash; Dipika Kadaba 🦺 (@DipikaKadaba) <a href="https://twitter.com/DipikaKadaba/status/1383086276971167744?ref_src=twsrc%5Etfw">April 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://twitter.com/DipikaKadaba/status/1383086276971167744" title=" <!--- embed this tweet, dm me if you need help with this>
+</div> 
+
+
+<div> 
+<h13>Learn more</h13> <!--- header --->
 <!--- make hyperlinks with text reading "link" please --->
-https://www.cityofirving.org/2737/Monarch-Butterfly-Life-Cycle
-https://monarchjointventure.org/monarch-biology/annual-life-cycle
-https://ansp.org/exhibits/online-exhibits/butterflies/lifecycle/
+<a href="https://www.cityofirving.org/2737/Monarch-Butterfly-Life-Cycle" target="_blank">City of Irving</a>
+<a href="https://monarchjointventure.org/monarch-biology/annual-life-cycle" target="_blank">Monarch Jint Venture</a>
+<a href="https://ansp.org/exhibits/online-exhibits/butterflies/lifecycle/" target="_blank>The Academy of Natrual Science</a>
+</div>
 
-Contact <!--- header --->
+
+
+<div> 
+<h14>Contact</h14> <!--- header --->
 <!--- insert hyperlinks to each of our github accounts here, with text reading each of our names with corrolated link please --->
+<a href="https://github.com/koko-santi" target="_blank">Korea Santiago</a>
+<a href="https://github.com/Azzyman99" target="_blank">Ozzy Vasquez</a>
+<a href="https://github.com/ellerymay" target"_blank"> Ellery Sarquilla </a>
+</div>
