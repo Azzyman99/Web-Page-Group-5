@@ -119,9 +119,9 @@ https://twitter.com/DipikaKadaba/status/1383086276971167744" title=" <!--- embed
 <div> 
 <h13>Learn more</h13> <!--- header --->
 <!--- make hyperlinks with text reading "link" please --->
-<a href="https://www.cityofirving.org/2737/Monarch-Butterfly-Life-Cycle" target="_blank">City of Irving</a>
-<a href="https://monarchjointventure.org/monarch-biology/annual-life-cycle" target="_blank">Monarch Jint Venture</a>
-<a href="https://ansp.org/exhibits/online-exhibits/butterflies/lifecycle/" target="_blank>The Academy of Natrual Science</a>
+<a href="https://www.cityofirving.org/2737/Monarch-Butterfly-Life-Cycle" target="">City of Irving</a>
+<a href="https://monarchjointventure.org/monarch-biology/annual-life-cycle" target="">Monarch Jint Venture</a>
+<a href="https://ansp.org/exhibits/online-exhibits/butterflies/lifecycle/" target=">The Academy of Natrual Science</a>
 </div>
 
 
@@ -129,7 +129,7 @@ https://twitter.com/DipikaKadaba/status/1383086276971167744" title=" <!--- embed
 <div> 
 <h14>Contact</h14> <!--- header --->
 <!--- insert hyperlinks to each of our github accounts here, with text reading each of our names with corrolated link please --->
-<a href="https://github.com/koko-santi" target="_blank">Korea Santiago</a>
-<a href="https://github.com/Azzyman99" target="_blank">Ozzy Vasquez</a>
-<a href="https://github.com/ellerymay" target"_blank"> Ellery Sarquilla </a>
+<a href="https://github.com/koko-santi" target="">Korea Santiago</a>
+<a href="https://github.com/Azzyman99" target="">Ozzy Vasquez</a>
+<a href="https://github.com/ellerymay" target""> Ellery Sarquilla </a>
 </div>
