@@ -1,47 +1,116 @@
-html{
- width: 100%;
- background-color: #000000;
- background-image: url(../images/forest.webp);
+html {
+    
+    background-image: url("https://wallpaperaccess.com/full/1390265.jpg");
+    background-color: peachpuff;
+   cursor: url(https://cur.cursors-4u.net/nature/nat-9/nat839.cur), auto !important;
 
 }
-
-body{ 
-    width: 80%;
-    background-color: #fff;
-    height: 500px;
-    margin: 0 auto; 
+img{
+    width:260px;
+    height:250px;
+    padding:15px;
+    border-style: double;
+     border-color: #92B97D ;
     
 }
 
-header { 
-    width: 100%; 
-    height: 80px;
-    background-color: #a4a2f2;
+body {
+  background-color: #8671ad;
+        background-image: url("https://www.transparenttextures.com/patterns/debut-light.png");
+        font-family: 'Courier New';
+        max-width: 1200px;
+        width: 90%;
+        margin:auto;
+        padding:1%;
+        
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: lighter;
+    text-align: center;
+    background-color: #9CCF81 ;
+    border: 15px solid transparent;
+    padding: 20px;
+    border-style: double;
+     border-color: #547c3f ;
+     border-radius: 60%;
+  
+}
+h2{
+
+    font-size: 35px;
+    text-align: center;
+    background-color: rgba(255, 218, 185, 0.534);
+    border: 15px;
+    border-style: double;
+    border-color: #92B97D;
+    width:566px;
+
+}
+ .stages {
+
+     background-color: peachpuff;
+     border: 15px solid transparent;
+     border-style: double;
+     border-color: #92B97D;
+     border-right: none;
+     padding-top: 30px;
+     padding-right: 30px;
+     padding-bottom: 30px;
+     padding-left: 30px;
+     width:300px;
+     float:left;
+     
+     
+ }
+
+ .egg{
+     height: 151px;
+     width: 173px;
+     background-color: peachpuff;
+     border: 15px;
+     border-left: none;
+     border-style: double;
+     border-color: #92B97D;
     
-
  }
-
- header h1 { 
-     width: 150px; 
-     margin: 0 auto; 
-     padding-top: 25px;
-     
+ .caterpillar{
+    height: 204px;
+    width: 173px;
+    background-color: peachpuff;
+    border: 15px;
+    border-left: none;
+    border-style: double;
+    border-color: #92B97D;
  }
-
- h2 { 
-     padding-left: .5em;
-     
-         
-     
+ .pupa{
+    height: 168px;
+    width: 173px;
+    background-color: peachpuff;
+    border: 15px;
+    border-left: none;
+    border-style: double;
+    border-color: #92B97D;
+ }
+ .butterfly{
+    height: 169px;
+    width: 173px;
+    background-color: peachpuff;
+    border: 15px;
+    border-left: none;
+    border-style: double;
+    border-color: #92B97D;
+ }
+ .stagesHead{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgba(255, 218, 185, 0.534);
+    border: 15px;
+    border-bottom: none;
+    border-style: double;
+    border-color: #92B97D;
+    width:566px;
     
- }
-
- p { 
-     padding-left: .75em;
-     padding-right: .75em;
-     
-     
- }
- .adjust {
-    padding-top: 2em;
- }
+  }
+  
