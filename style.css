@@ -1,81 +1,75 @@
 html {
-    
     background-image: url("https://wallpaperaccess.com/full/1390265.jpg");
     background-color: peachpuff;
-   cursor: url(https://cur.cursors-4u.net/nature/nat-9/nat839.cur), auto !important;
-
+    cursor: url(https://cur.cursors-4u.net/nature/nat-9/nat839.cur), auto !important;
 }
-img{
-    width:260px;
-    height:250px;
-    padding:15px;
+
+img {
+    width: 260px;
+    height: 250px;
+    padding: 15px;
     border-style: double;
-     border-color: #92B97D ;
-    
+    border-color: #92B97D;
 }
 
 body {
-  background-color: #8671ad;
-        background-image: url("https://www.transparenttextures.com/patterns/debut-light.png");
-        font-family: 'Courier New';
-        max-width: 1200px;
-        width: 90%;
-        margin:auto;
-        padding:1%;
-        
+    background-color: #8671ad;
+    background-image: url("https://www.transparenttextures.com/patterns/debut-light.png");
+    font-family: 'Courier New';
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+    padding: 1%;
 }
-h1{
-    font-family:Georgia, 'Times New Roman', Times, serif;
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 45px;
     font-weight: lighter;
     text-align: center;
-    background-color: #9CCF81 ;
+    background-color: #9CCF81;
     border: 15px solid transparent;
     padding: 20px;
     border-style: double;
-     border-color: #547c3f ;
-     border-radius: 60%;
-  
+    border-color: #547c3f;
+    border-radius: 60%;
 }
-h2{
 
+h2 {
     font-size: 35px;
     text-align: center;
     background-color: rgba(255, 218, 185, 0.534);
     border: 15px;
     border-style: double;
     border-color: #92B97D;
-    width:566px;
-
+    width: 566px;
 }
- .stages {
 
-     background-color: peachpuff;
-     border: 15px solid transparent;
-     border-style: double;
-     border-color: #92B97D;
-     border-right: none;
-     padding-top: 30px;
-     padding-right: 30px;
-     padding-bottom: 30px;
-     padding-left: 30px;
-     width:300px;
-     float:left;
-     
-     
- }
+.stages {
+    background-color: peachpuff;
+    border: 15px solid transparent;
+    border-style: double;
+    border-color: #92B97D;
+    border-right: none;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    width: 300px;
+    float: left;
+}
 
- .egg{
-     height: 151px;
-     width: 173px;
-     background-color: peachpuff;
-     border: 15px;
-     border-left: none;
-     border-style: double;
-     border-color: #92B97D;
-    
- }
- .caterpillar{
+.egg {
+    height: 151px;
+    width: 173px;
+    background-color: peachpuff;
+    border: 15px;
+    border-left: none;
+    border-style: double;
+    border-color: #92B97D;
+}
+
+.caterpillar {
     height: 204px;
     width: 173px;
     background-color: peachpuff;
@@ -83,8 +77,9 @@ h2{
     border-left: none;
     border-style: double;
     border-color: #92B97D;
- }
- .pupa{
+}
+
+.pupa {
     height: 168px;
     width: 173px;
     background-color: peachpuff;
@@ -92,8 +87,9 @@ h2{
     border-left: none;
     border-style: double;
     border-color: #92B97D;
- }
- .butterfly{
+}
+
+.butterfly {
     height: 169px;
     width: 173px;
     background-color: peachpuff;
@@ -101,8 +97,9 @@ h2{
     border-left: none;
     border-style: double;
     border-color: #92B97D;
- }
- .stagesHead{
+}
+
+.stagesHead {
     font-size: 30px;
     text-align: center;
     background-color: rgba(255, 218, 185, 0.534);
@@ -110,7 +107,65 @@ h2{
     border-bottom: none;
     border-style: double;
     border-color: #92B97D;
-    width:566px;
+    width: 566px;
+}
+
+
+/*  */
+
+.container {
+    display: flex;
+    width: 100%;
+    overflow: auto;
+}
+
+.columns {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.column {
+    flex: 28%;
+    padding: 10px;
+    margin: 5px;
+    background-color: #fff;
+    text-align: center;
+    border-radius: 10px;
+
+    text-align: center;
+    background-color: rgba(255, 218, 185, 0.534);
+    border: 15px;
+    border-style: double;
+    border-color: #92B97D;
+    width: 300px;
+
     
-  }
-  
+}
+
+.sidebar {
+    position: relative;
+    width: 320px;
+    margin-left: -320px;
+    float: right;
+    overflow: hidden;
+    background: #2c3e50;
+    background: rgba(44, 62, 80, 0.4);
+    color: #eee;
+    min-height: 600px;
+
+    
+    
+}
+
+h3{
+    font-size: 35px;
+    text-align: center;
+    background-color: rgba(255, 218, 185, 0.534);
+    border: 15px;
+    border-style: double;
+    border-color: #92B97D;
+    width: 300px;
+}
+
